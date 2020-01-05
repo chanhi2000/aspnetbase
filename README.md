@@ -26,7 +26,7 @@ brew cask install dotnet-sdk
 ## How to run a project
  - clone the project
 ```terminal
-git clone http://github.com/chanhi2000/aspnetmvc
+git clone http://github.com/chanhi2000/aspnetbase
 ```
 - open the project using VS Code
 
